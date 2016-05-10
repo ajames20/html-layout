@@ -1,0 +1,40 @@
+.a {
+  background-color: #D3D3D3;
+  height: 175px;
+  width: 100%;
+  padding-top: 50px;
+  padding-left: 25px;
+}
+.a header {
+  height: 100px;
+  width: 100px;
+  background-color: #7979e3;
+}
+.text {
+  height: 175px;
+  width: 100%;
+}
+.text p {
+  text-align: center;
+  font-size: 24px;
+}
+.section-1 {
+  height: 175px;
+  width: 100%;
+  background-color: #4f4fd8;
+}
+.section-2 {
+  height: 175px;
+  width: 100%;
+  background-color: #a0e384;
+}
+.section-3 {
+  height: 175px;
+  width: 100%;
+  background-color: #56bf2c;
+}
+.section-4 {
+  height: 175px;
+  width: 100%;
+  background-color: #ecfd65;
+}
